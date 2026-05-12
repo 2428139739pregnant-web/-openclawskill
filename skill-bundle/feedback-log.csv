@@ -1,0 +1,8 @@
+date,topic_id,decision,title_feedback,angle_feedback,risk_feedback,performance_notes,next_adjustment
+2026-05-11,AICB-20260511-01,pending,,,,,
+2026-05-11,AICB-20260511-02,pending,,,,,
+2026-05-11,AICB-20260511-03,pending,,,,,
+2026-05-11,manual-run-001,rejected,Google/Reddit与中国市场无关,国内百度/微博热搜优先 国际新闻为辅,避免政治敏感话题,用户明确要求热点=百度热搜/微博热搜上升很快的话题,重跑时从中国公域热榜入口选题
+2026-05-11,manual-run-002,rejected,热点选择不能是通用话题词,必须选择news event新闻事件,避免泛讨论话题,用户明确要求事件型热点=明确主体+动作+进展+公共后果,重跑时先过滤掉泛话题和搜索词
+2026-05-11,format-pivot,accepted,从单条话题改为每期5条新闻周榜,近一周AI商业新闻榜,适合没时间看新闻的老板,每期5个news event并给出商业判断,改为周榜节目结构
+2026-05-11,audience-pivot,accepted,主受众不是老板而是市场营销传播总监和市场营销人,老板为次级受众,每条新闻都要给市场部行动建议,调整为市场营销人损益感优先
